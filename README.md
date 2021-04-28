@@ -156,5 +156,9 @@ npm run test
 
 ### Creador:
 
-Jesson Ember Bejarano Mosquera
-Magister en ingenieria de software y sistemas informaticos
+Jesson Ember Bejarano Mosquera -
+Magister en ingenieria de software y sistemas informaticos 
+
+```bash
+https://jessonbejarano.com/
+```
